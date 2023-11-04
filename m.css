@@ -1,14 +1,14 @@
 *{margin:0; padding:0; list-style-type:none; text-decoration:none;}
 html{width: 100%;font-size: 62.5%;font-family:"Microsoft JhengHei", "TW-Kai", sans-serif; background:rgba(239,239,239,1.00);}
 body{text-align: center;background:url(wp.png);}
-.header{margin: 3rem auto 0 auto;}
+.header{margin: 3rem auto 0 auto;width: 60rem;}
 .header img{float: left;}
 .header li{display:none;}
 .block{margin: 3rem auto 0 auto;}
 .block img{width: 60rem;}
 .block li{background: rgba(255,255,255,1.00);float: none;width:60rem;margin: 2rem auto; font-size:2.5rem; line-height: 3.2rem; text-align:left;}
 .block li p{padding: 2rem;}
-.t{display: inline-block;margin: 2rem auto 1rem auto;}
+.t{display: inline-block;margin: 2rem auto 1rem auto;width: 60rem;}
 .t li{font-size:3rem;font-weight: bold;}
 .icon{display: inline-block;margin: 0 auto;width: 60rem;overflow: hidden;}
 .icon li{float: left;text-align: center; width: 19.4rem;height: 9.2rem; margin: 0.2rem; padding-top: 0.8rem; border: 0.1rem solid rgba(0,0,0,0.1);overflow: hidden;}
