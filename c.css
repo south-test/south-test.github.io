@@ -1,0 +1,19 @@
+*{margin:0; padding:0; list-style-type:none; text-decoration:none;}
+html{width: 100%;font-size: 62.5%;font-family:"Microsoft JhengHei", "TW-Kai", sans-serif; background:rgba(239,239,239,1.00);}
+body{text-align: center;background:url(wp.png);}
+.header{display: inline-block;margin: 2rem auto 0 auto;width: 100rem;}
+.header img{float: left;max-height:20rem;}
+.header li{float: left;height: 16rem; margin: 1rem 0 0 4rem;padding: 1rem 1.5rem; font-size:2.2rem;font-weight: bold;line-height: 4rem; text-align:left;border: 0.2rem solid;}
+.block{background: rgba(255,255,255,1.00);display: inline-block;margin: 2rem auto 0 auto;width: 100rem;overflow: hidden;}
+.block img{float: left;width: 50rem;margin: 1rem;}
+.block li{float: left;width:46rem;margin: 1rem 1rem 0 1rem;font-size:2rem; text-align:left;}
+.t{display: inline-block;margin: 2rem auto 1rem auto;width: 100rem;}
+.t li{font-size:2.2rem;font-weight: bold;}
+.icon{display: inline-block;margin: 0 auto;width: 100rem;overflow: hidden;}
+.icon li{float: left;text-align: center; width: 19.4rem;height: 9.2rem; margin: 0.2rem; padding-top: 0.8rem; border: 0.1rem solid rgba(0,0,0,0.1);overflow: hidden;}
+.flow{display: inline-block;margin: 0 auto;width: 100rem;overflow: hidden;}
+.form{display: inline-block;margin: 1rem auto;width: 100rem;overflow: hidden;font-size:1.5rem;}
+.l1{width: 21rem;height: 3rem;padding-left: 0.5rem;margin: 0 1rem 1rem 0;}
+.l2{width:10rem;height: 4rem;color: rgba(255,255,255,1);font-size:2rem;background-color:rgba(69,76,216,0.80);}
+.c{background:rgba(219,198,183,0.40);display: inline-block;margin: 2rem auto;padding-bottom: 4rem; font-size:2rem;width: 100rem;overflow: hidden;}
+.footer{display: inline-block;margin: 2rem auto;width: 100rem;font-size: 1.5rem;color: rgba(0,0,0,0.7);}
