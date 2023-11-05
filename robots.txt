@@ -1,9 +1,5 @@
 User-agent: *
 Disallow: /reports/
 Disallow: /search/
-Disallow: /pdfjs/
-Disallow: .pdf$
-Disallow: .css$
 Disallow: .jpg$
-Allow: /logo_south-test.png
 Disallow: .png$
