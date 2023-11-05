@@ -2,7 +2,7 @@
 html{width: 100%;font-size: 62.5%;font-family:"Microsoft JhengHei", "TW-Kai", sans-serif; background:rgba(239,239,239,1.00);}
 body{text-align: center;background:url(wp.png);}
 .header{margin: 3rem auto 0 auto;width: 60rem;}
-.header img{float: left;}
+.header img{float: left;margin:0 5rem 3rem 5rem;}
 .header li{display:none;}
 .block{margin: 3rem auto 0 auto;}
 .block img{width: 60rem;}
