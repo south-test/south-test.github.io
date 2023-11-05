@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /reports/
 Disallow: /search/
+Disallow: /pdfjs/
 Disallow: .pdf$
 Disallow: .css$
 Disallow: .jpg$
