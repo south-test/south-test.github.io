@@ -1,0 +1,11 @@
+*{margin:0; padding:0; list-style-type:none; text-decoration:none;}
+html{width: 100%;font-size: 62.5%;font-family:sans-serif; background:rgba(63,63,63,1.00);}
+body{text-align: center;width:64rem;margin:0 auto;}
+.gd{width: 64rem; height: 4rem; background:rgba(73,73,73,1); border-bottom: 0.15rem outset rgba(165,165,165,1); position: fixed; z-index: 9999px;top:0;}
+.gd p{width: 58rem; margin: 0 auto; padding-top: 1rem; color:rgba(255,255,255,1.00); text-align:right; user-select: none; }
+.gd span{font-size: 1.5rem; float: left; padding: 0.2rem 1rem; margin-right: 17rem;}
+.gd a{font-size: 1.8rem;}
+.gd a:link{color:rgba(255,255,255,1.00);}
+.gd a:visited{color:rgba(255,255,255,1.00);}
+.pic{width: 64rem; margin: 5rem auto 0.5rem auto;}
+.pic img{width: 58rem; margin: 0.5rem auto;}
