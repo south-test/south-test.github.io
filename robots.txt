@@ -3,3 +3,4 @@ Disallow: /reports/
 Disallow: /search/
 Disallow: .jpg$
 Disallow: .png$
+Disallow: .pdf$
