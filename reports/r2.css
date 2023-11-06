@@ -1,11 +1,11 @@
 *{margin:0; padding:0; list-style-type:none; text-decoration:none;}
 html{width: 100%;font-size: 62.5%;font-family:sans-serif; background:rgba(63,63,63,1.00);}
 body{text-align: center;width:64rem;margin:0 auto;}
-.gd{width: 64rem; height: 8rem; background:rgba(73,73,73,1); border-bottom: 0.15rem outset rgba(165,165,165,1); position: fixed; z-index: 9999px;top:0;}
-.gd p{width: 45rem; margin: 0 auto; padding-top: 2rem; color:rgba(255,255,255,1.00); text-align:right; user-select: none; }
-.gd span{font-size: 2.5rem; float: left; padding: 0.5rem 2rem; margin-right: 3rem;}
-.gd a{font-size: 3rem;}
+.gd{width: 64rem; height: 6rem; background:rgba(73,73,73,1); border-bottom: 0.15rem outset rgba(165,165,165,1); position: fixed; z-index: 9999px;top:0;}
+.gd p{width: 50rem; margin: 0 auto; padding-top: 1.5rem; color:rgba(255,255,255,1.00); text-align:right; user-select: none; }
+.gd span{font-size: 2rem; float: left; padding: 0.5rem 2rem; margin-right:8rem;}
+.gd a{font-size: 2.5rem;}
 .gd a:link{color:rgba(255,255,255,1.00);}
 .gd a:visited{color:rgba(255,255,255,1.00);}
-.pic{width: 64rem; margin: 9rem auto 0.5rem auto;}
-.pic img{width: 45rem; margin: 0.5rem auto;}
+.pic{width: 64rem; margin: 7rem auto 0.5rem auto;}
+.pic img{width: 50rem; margin: 0.5rem auto;}
