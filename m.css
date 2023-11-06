@@ -1,6 +1,6 @@
 *{margin:0; padding:0; list-style-type:none; text-decoration:none;}
 html{width: 100%;font-size: 62.5%;font-family:"Microsoft JhengHei", "TW-Kai", sans-serif; background:rgba(239,239,239,1.00);}
-body{text-align: center;background:url(wp.png);}
+body{text-align: center;background:url(wp.png); width: 64rem; margin: 0 auto;}
 .header{margin: 3rem auto 0 auto;width: 60rem;}
 .header img{float: left;margin:0 5rem 3rem 5rem;}
 .header li{display:none;}
