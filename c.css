@@ -27,5 +27,5 @@ body{text-align: center;background:url(wp.png);}
 .w1{width: 40rem;height: 10rem; padding-top: 3rem; font-size: 2.5rem; float: left;border: 0.2rem solid rgba(0,0,0,0.2);box-sizing:border-box;}
 .w{float: none;margin: 3rem auto 0 auto;width: 60rem;}
 .w p{text-align: left;font-size: 2rem;margin-top:1rem;}
-.w li{font-size: 1.7rem;color: rgba(0,0,0,0.7);margin-top: 5rem;padding-bottom: 3rem;}
+.w li{font-size: 1.7rem;color: rgba(0,0,0,0.7);margin-top: 5rem;padding-bottom: 5rem;}
 
