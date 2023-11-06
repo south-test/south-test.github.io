@@ -13,6 +13,11 @@
 </head>
 <body oncontextmenu="return false">
 	<div class="gd"><p><span>⇧ ⇩</span><span style="border: 0.1rem solid rgba(0,0,0,1.00);">自动缩放 <></span><a href="test/test.pdf" download="g39qgah5qp3fqa0.pdf">下载报告</a></p></div>
-	<div class="pic"><img src="test/test-1.jpg" draggable="false"><img src="test/test-2.jpg" draggable="false"><img src="test/test-3.jpg" draggable="false"><img src="test/test-4.jpg" draggable="false"></div>
+	<div class="pic">
+		<picture><source media="(min-width:1000px)" srcset="test/test-1-a.jpg"><source media="(max-width:999px)" srcset="test/test-1.jpg"><img src="test/test-1.jpg" draggable="false"></picture>
+		<picture><source media="(min-width:1000px)" srcset="test/test-2-a.jpg"><source media="(max-width:999px)" srcset="test/test-2.jpg"><img src="test/test-2.jpg" draggable="false"></picture>
+		<picture><source media="(min-width:1000px)" srcset="test/test-3-a.jpg"><source media="(max-width:999px)" srcset="test/test-3.jpg"><img src="test/test-3.jpg" draggable="false"></picture>
+		<picture><source media="(min-width:1000px)" srcset="test/test-4-a.jpg"><source media="(max-width:999px)" srcset="test/test-4.jpg"><img src="test/test-4.jpg" draggable="false"></picture>
+		</div>
 </body>
 </html>

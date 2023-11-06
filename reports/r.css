@@ -8,4 +8,4 @@ body{text-align: center;}
 .gd a:link{color:rgba(255,255,255,1.00);}
 .gd a:visited{color:rgba(255,255,255,1.00);}
 .pic{width: 100rem; margin: 4rem auto 0.5rem auto;}
-.pic img{width: 100rem; margin: 0.5rem auto;}
+.pic img{margin: 0.5rem auto;}
