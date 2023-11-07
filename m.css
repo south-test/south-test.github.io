@@ -17,7 +17,8 @@ body{text-align: center;background:url(wp.png); width: 64rem; margin: 0 auto;}
 .form{display: inline-block;margin: 1rem auto;width: 52rem;overflow: hidden;font-size:2.2rem;}
 .l1{width: 40rem;height: 4rem;padding-left: 0.5rem;margin-top: 1rem;}
 .l2{width:20rem;height: 8rem;color: rgba(255,255,255,1);font-size:3rem;background-color:rgba(69,76,216,0.80);margin-top: 3rem;}
-.c{background:rgba(219,198,183,0.40);display: inline-block;margin: 3rem auto;padding-bottom: 4rem; font-size:2.5rem;line-height: 3.5rem; width: 60rem;overflow: hidden;}
+.c{background:rgba(219,198,183,0.40);display: inline-block;margin: 3rem auto; font-size:2.5rem;line-height: 3.5rem; width: 60rem;overflow: hidden;}
+.c img{margin: 3rem auto; width: 15rem;}
 .footer{display: inline-block;margin: 2rem auto;width: 60rem;font-size: 1.8rem;color: rgba(0,0,0,0.7);}
 .search{display: inline-block;margin: 2rem auto;width: 60rem;}
 .search p{font-size: 3.5rem;font-weight: bold;padding-bottom: 3rem;}
